@@ -1,0 +1,6 @@
+{
+  "name": "MV HINDSHIP Hydrostatic & Stability Suite",
+  "description": "Professional naval architecture hydrostatic calculator, dynamic vessel profile visualizer, and trim & stability analyzer for MV HINDSHIP, created by Hashith.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
